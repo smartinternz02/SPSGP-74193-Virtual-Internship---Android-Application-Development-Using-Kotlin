@@ -1,11 +1,9 @@
-Name : Shahzad Sayyed
+Name : Rohit Kumar
 
-SBID	:	 SB20220212651
+SBID	:	 SPSGP-74193
 
-EMAIL	:	shahzadsayyed1729@gmail.com
+EMAIL	:	vtu15145@veltech.edu.in
 
-Smart Internz Profile : https://smartinternz.com/student-profile/feed/U0IyMDIyMDIxMjY1MQ
+Smart Internz Profile : https://smartinternz.com/student-profile/feed/U0IyMDIxMDEyNjk2MA==
 
-Google Developers Profile : https://developers.google.com/profile/u/shahzadsayyed
-
-Project Demo Link : https://www.veed.io/view/8df508ad-c81a-4ca0-a4fd-53c6084974ae
+Google Developers Profile : https://developers.google.com/profile/u/rkrohit
